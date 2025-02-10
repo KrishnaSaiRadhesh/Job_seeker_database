@@ -4,7 +4,8 @@
             "id": "1",
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
-            "job_role": "web developer",
+            "job_role": "Web developer",
+            "location":"Hyderabad",
             "salary": "5lpa"
         },
         {
@@ -12,6 +13,7 @@
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
             "job_role": "Software_developer",
+            "location":"chennai",
             "salary": "6lpa"
         },
         {
@@ -19,6 +21,7 @@
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
             "job_role": "Full-stack developer",
+            "location":"Banglore",
             "salary": "5lpa"
         },
         {
@@ -26,6 +29,7 @@
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
             "job_role": "React developer",
+            "location": "Pune",
             "salary": "4.5lpa"
         },
         {
@@ -33,6 +37,7 @@
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
             "job_role": "Cloud engineer",
+            "location": "Mumbai",
             "salary": "9lpa"
         },
         {
@@ -40,6 +45,7 @@
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
             "job_role": "React developer",
+            "location" : "Kolkata",
             "salary": "4.5lpa"
         },
         {
@@ -47,6 +53,7 @@
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
             "job_role": "IT Business Analyst",
+            "location": "Hyderabad",
             "salary": "5lpa"
         },
         {
@@ -54,6 +61,7 @@
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
             "job_role": "AI Engineer",
+            "location" : "Mumbai",
             "salary": "10lpa"
         },
         {
@@ -61,6 +69,7 @@
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
             "job_role": "ML Engineer",
+            "location" : "Pune",
             "salary": "5lpa"
         },
         {
@@ -68,6 +77,7 @@
             "cmp_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aZLSIxNZv3FSEhMQjmSUzORZWmUPTz4WGA&s",
             "company": "Infosys",
             "job_role": "Systems Manager",
+            "location" : "chennai",
             "salary": "6.5lpa"
         },
         {
@@ -75,6 +85,7 @@
             "cmp_img":"data:image/png;base64,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",
             "company": "Accenture",
             "job_role": "Systems Manager",
+            "location" : "Mumbai",
             "salary": "6lpa"
         },
         {
@@ -82,6 +93,7 @@
             "cmp_img":"data:image/png;base64,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",
             "company": "Accenture",
             "job_role": "React developer",
+            "location" : "Hyderabad",
             "salary": "5.5lpa"
         },
         {
@@ -89,6 +101,7 @@
             "cmp_img":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAt1BMVEX///8AAAChAP6+vr6EhITKysrc3Nz4+PipqanX19eWlpaHh4c3NzdaWlqMjIz///23t7cjIyP09PTs7OyhoaHt7e2srKzm5uaZmZmYAPx+fn7Q0NBpaWmkpKQuLi52dnZCQkJMTEwXFxcMDAxeXl7Vpf01NTVGRkYfHx/38frQnvvXq/69bf3o0vuoNfy/cvngvfivRPzu3vrHhPqkG/2zTPu1XvnJjfjctfq2Wv2sK/3lzPrz6fzthBNYAAAFT0lEQVR4nO3Ya3uaSBgGYPDASQQEFdQAGs2p6abdY7rb/f+/a5n3nYHReBnTNoF0n/tDQ0fAmcc5gWEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAc8K7MGy7Du9G+KF3X+WFwM5ytVj0Pv4ShgjsDFeLXq+3eLiyEdbzKCyR1yfRvQwkdkL4eSHT6i1+vbpDVieF9v1DHZeYvdquUKdVg++33/+o8/qz7fp0Xnj3+S+Z1kPbdem8qnfdPSKss4R3X/5Wi+I/bVemw8Rm9OunXrMi3rddoy7797GZ3Htir9V2hTos/KB1KjxUP4N38AvewCOr065oCcTe/SxVz/r41UCfOsuXR8xUZ9OSslusxrtQT+p2fzNvtyrvRhrcmmbUdi3eB9sUENZZ7AnCOh+F1W+7Fj/GbL70C3/srbQyOxqsC790Eq0syS/8Yj2K9HVt5W2K63HmqltNHceZir/jwl/SDWdOfinCWs4dp7oyqk5whnSylVeHeXWQ5nyVEQUjvk/slNVXLaP4lZr8zTxT2ViqbL5VZQNVZC9V0WU9otxNfWlKBRb9x4hk6bIuYjPDoCs4kjmfbBhDPnCrHrihT7L6ivxNIjjbWGuMKdO60IpuuCPNCq0s4NMi/VLqRpxMvy6c7oW1ncmvC7TLDRVWLP4ZH1bp4o3jOGnAdbrlPwWVLU1dKYp4kq7RBOTysX/Nf8WQscwD9l5RciqsCxUWZzXxuU6jVmI5ipf1Mo1T7k1i8lnR0WVu9dd0JLrbiI42fXe6rUOlviaGrlWoUGUyk2AqA18ZiefRnHWReV58Kiz+BlWc20acqYQ7gkaML45oFJhin70TB1uqI/24nsqUxshKhUqXipFVzdCq2RyWL0YuJ+CIj/XV8GRYO68632/OKOXXd4QVVXgZ3MlOHzetNBzZjbhdPIlvxGEmJzY5SCiCoQqLFztTtXRvn3UirIxrpHUnGujrVw/hZey0osLiqlOPMWJXkD/xmE9ORVEqI5ha4n/WTvZKbikv+P4Lw5K50xpZ0G1d6ryTLj2CuwP/sp4zqhpPVRs0NHmVe0Wxeahe+rh1Lw1LrsSDJ/ftzqQV720dRFjekbCo4YO9otmTRmXfF5a8b/nkvunrtf6F9rcE3xWW97OHxcn4+TyKNjKs7EhYR4Yhh5X1G9YPCYv2HP5Qu29n5izaUC7pUK1ukdZg2wuCYCA/2/El6agqmxsxbbgOHo9fFNbh4w6j3+r6FZv8zRJqMT8Gq9WQuwynQBuoS9UuXuUc2dyx1ttWXpZ5w3PC2jVXjY6GtdKH3jSrdOVpmneTtM9KTBmWQePxmlqseht/SD0wvpWX5FqrbmS+x8OiK+SMR3ek3QDf80lYfDbHOexWL6MHlXVqx25Rh8Xj0O+nK+oGtKbzw1DpphF1E7Hn53F4209m7li19mhYHKVZBmWqutPNvK9edhgHYck5s0xnCfVhuT3uAvl+wVeLIu0Md6aO+lOyV8R7dPXSQb7OEQP3eFj11ilVo0xjHIalFmi5+Zu8bSCnNBuA7boOixc/SU7rrt7AKZdN9TJ6WDkeVp20GLPN65962T0Ia+9t0KQ7W9Lql5a/49alDY6cWZoXgoE6Man723W9BA7rVAsuc7Wwijoseq0niAFty13wxDq+dRCnNLv4siuzO7OjQSWPjWHuOPlQlsZzUTqY63VNM1E0Gu69Vg5EWaAuU6+VhUjcT76qtvviPIev7A/4uHmtrF3FEv76aWf2owAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L/yH4X7SY2JpDXDAAAAAElFTkSuQmCC",
             "company": "Accenture",
             "job_role": "web developer",
+            "location" : "Kolkata",
             "salary": "7lpa"
         },
         {
@@ -96,6 +109,7 @@
             "cmp_img":"data:image/png;base64,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",
             "company": "Accenture",
             "job_role": "Software_developer",
+            "location" : "Banglore",
             "salary": "7lpa"
         },
         {
@@ -103,6 +117,7 @@
             "cmp_img":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAt1BMVEX///8AAAChAP6+vr6EhITKysrc3Nz4+PipqanX19eWlpaHh4c3NzdaWlqMjIz///23t7cjIyP09PTs7OyhoaHt7e2srKzm5uaZmZmYAPx+fn7Q0NBpaWmkpKQuLi52dnZCQkJMTEwXFxcMDAxeXl7Vpf01NTVGRkYfHx/38frQnvvXq/69bf3o0vuoNfy/cvngvfivRPzu3vrHhPqkG/2zTPu1XvnJjfjctfq2Wv2sK/3lzPrz6fzthBNYAAAFT0lEQVR4nO3Ya3uaSBgGYPDASQQEFdQAGs2p6abdY7rb/f+/a5n3nYHReBnTNoF0n/tDQ0fAmcc5gWEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAc8K7MGy7Du9G+KF3X+WFwM5ytVj0Pv4ShgjsDFeLXq+3eLiyEdbzKCyR1yfRvQwkdkL4eSHT6i1+vbpDVieF9v1DHZeYvdquUKdVg++33/+o8/qz7fp0Xnj3+S+Z1kPbdem8qnfdPSKss4R3X/5Wi+I/bVemw8Rm9OunXrMi3rddoy7797GZ3Htir9V2hTos/KB1KjxUP4N38AvewCOr065oCcTe/SxVz/r41UCfOsuXR8xUZ9OSslusxrtQT+p2fzNvtyrvRhrcmmbUdi3eB9sUENZZ7AnCOh+F1W+7Fj/GbL70C3/srbQyOxqsC790Eq0syS/8Yj2K9HVt5W2K63HmqltNHceZir/jwl/SDWdOfinCWs4dp7oyqk5whnSylVeHeXWQ5nyVEQUjvk/slNVXLaP4lZr8zTxT2ViqbL5VZQNVZC9V0WU9otxNfWlKBRb9x4hk6bIuYjPDoCs4kjmfbBhDPnCrHrihT7L6ivxNIjjbWGuMKdO60IpuuCPNCq0s4NMi/VLqRpxMvy6c7oW1ncmvC7TLDRVWLP4ZH1bp4o3jOGnAdbrlPwWVLU1dKYp4kq7RBOTysX/Nf8WQscwD9l5RciqsCxUWZzXxuU6jVmI5ipf1Mo1T7k1i8lnR0WVu9dd0JLrbiI42fXe6rUOlviaGrlWoUGUyk2AqA18ZiefRnHWReV58Kiz+BlWc20acqYQ7gkaML45oFJhin70TB1uqI/24nsqUxshKhUqXipFVzdCq2RyWL0YuJ+CIj/XV8GRYO68632/OKOXXd4QVVXgZ3MlOHzetNBzZjbhdPIlvxGEmJzY5SCiCoQqLFztTtXRvn3UirIxrpHUnGujrVw/hZey0osLiqlOPMWJXkD/xmE9ORVEqI5ha4n/WTvZKbikv+P4Lw5K50xpZ0G1d6ryTLj2CuwP/sp4zqhpPVRs0NHmVe0Wxeahe+rh1Lw1LrsSDJ/ftzqQV720dRFjekbCo4YO9otmTRmXfF5a8b/nkvunrtf6F9rcE3xWW97OHxcn4+TyKNjKs7EhYR4Yhh5X1G9YPCYv2HP5Qu29n5izaUC7pUK1ukdZg2wuCYCA/2/El6agqmxsxbbgOHo9fFNbh4w6j3+r6FZv8zRJqMT8Gq9WQuwynQBuoS9UuXuUc2dyx1ttWXpZ5w3PC2jVXjY6GtdKH3jSrdOVpmneTtM9KTBmWQePxmlqseht/SD0wvpWX5FqrbmS+x8OiK+SMR3ek3QDf80lYfDbHOexWL6MHlXVqx25Rh8Xj0O+nK+oGtKbzw1DpphF1E7Hn53F4209m7li19mhYHKVZBmWqutPNvK9edhgHYck5s0xnCfVhuT3uAvl+wVeLIu0Md6aO+lOyV8R7dPXSQb7OEQP3eFj11ilVo0xjHIalFmi5+Zu8bSCnNBuA7boOixc/SU7rrt7AKZdN9TJ6WDkeVp20GLPN65962T0Ia+9t0KQ7W9Lql5a/49alDY6cWZoXgoE6Man723W9BA7rVAsuc7Wwijoseq0niAFty13wxDq+dRCnNLv4siuzO7OjQSWPjWHuOPlQlsZzUTqY63VNM1E0Gu69Vg5EWaAuU6+VhUjcT76qtvviPIev7A/4uHmtrF3FEv76aWf2owAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L/yH4X7SY2JpDXDAAAAAElFTkSuQmCC",
             "company": "Accenture",
             "job_role": "Cloud engineer",
+            "location" : "Hyderabad",
             "salary": "7lpa"
         },
         {
@@ -110,6 +125,7 @@
             "cmp_img":"data:image/png;base64,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",
             "company": "Amazon",
             "job_role": "Cloud engineer",
+            "location" : "chennai",
             "salary": "7.5lpa"
         },
         {
@@ -117,6 +133,7 @@
             "cmp_img":"data:image/png;base64,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",
             "company": "Amazon",
             "job_role": "Web Development engineer",
+            "location" : "Hyderabad",
             "salary": "8lpa"
         },
         {
@@ -124,6 +141,7 @@
             "cmp_img":"data:image/png;base64,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",
             "company": "Amazon",
             "job_role": "Systems Manager",
+            "location" : "Pune",
             "salary": "5lpa"
         }
     ]
