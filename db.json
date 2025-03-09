@@ -252,5 +252,18 @@
       "location": "Pune",
       "salary": "5lpa"
     }
-  ]
+  ],
+
+    "profiles" : [
+        {
+            "id": "1",
+            "fullname": "Krishna",
+            "email_id": "Krish@gmail.com",
+            "phone_number": 7854216954,
+            "resume":"resume.pdf"
+        }
+    ]
+
+
+  
 }
